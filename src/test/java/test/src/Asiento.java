@@ -1,5 +1,5 @@
-package test;
-public class Asiento {
+ package test;
+ public class Asiento {
 	String color;
 	int precio;
 	int registro;
@@ -9,4 +9,5 @@ public class Asiento {
 			this.color = color;
 		}
 	}
+}
 }
